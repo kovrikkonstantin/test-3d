@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skybox Skydays 2
+* source:	https://sketchfab.com/3d-models/skybox-skydays-2-2a316a4afe1f46e0bcce59e37e434dbb
+* author:	JABAMI Production (https://sketchfab.com/JabamiProduction)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skybox Skydays 2" (https://sketchfab.com/3d-models/skybox-skydays-2-2a316a4afe1f46e0bcce59e37e434dbb) by JABAMI Production (https://sketchfab.com/JabamiProduction) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
